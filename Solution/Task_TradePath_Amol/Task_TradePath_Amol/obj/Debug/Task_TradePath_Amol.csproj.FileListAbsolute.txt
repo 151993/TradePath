@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\Task_TradePath_Amol\Task_TradePath_Amol\bin\Debug\Task_TradePath_Amol.exe.config
+C:\Users\hp\source\repos\Task_TradePath_Amol\Task_TradePath_Amol\bin\Debug\Task_TradePath_Amol.exe
+C:\Users\hp\source\repos\Task_TradePath_Amol\Task_TradePath_Amol\bin\Debug\Task_TradePath_Amol.pdb
+C:\Users\hp\source\repos\Task_TradePath_Amol\Task_TradePath_Amol\obj\Debug\Task_TradePath_Amol.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Task_TradePath_Amol\Task_TradePath_Amol\obj\Debug\Task_TradePath_Amol.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Task_TradePath_Amol\Task_TradePath_Amol\obj\Debug\Task_TradePath_Amol.exe
+C:\Users\hp\source\repos\Task_TradePath_Amol\Task_TradePath_Amol\obj\Debug\Task_TradePath_Amol.pdb
